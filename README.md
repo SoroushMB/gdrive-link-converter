@@ -28,7 +28,7 @@ If you want to try the latest development version or modify the code:
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/SoroushMB/gdrive-link-convertor.git
+    git clone https://github.com/SoroushMB/gdrive-link-converter.git
     ```
 2.  Open Google Chrome and navigate to `chrome://extensions`.
 3.  Enable **"Developer mode"** using the toggle switch in the top-right corner.
