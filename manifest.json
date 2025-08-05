@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Google Drive Direct Link Converter",
+  "version": "1.0",
+  "description": "Converts a Google Drive file sharing link into a direct, embeddable image link.",
+  "permissions": [
+    "clipboardWrite"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
